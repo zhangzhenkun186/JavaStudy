@@ -36,5 +36,7 @@ public class LambdaTest {
         //lambda表达式写法2
         Callable<String> callable3=()->"zzk3";
         System.out.println(callable3.call());
+
+
     }
 }
